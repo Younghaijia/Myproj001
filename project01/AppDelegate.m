@@ -16,7 +16,7 @@
 
 - (void)test
 {
-    
+    NSLog(@"阿回家科斯洛夫好看");
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
