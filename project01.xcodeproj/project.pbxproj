@@ -14,6 +14,7 @@
 		84A21F0A19EF9CFB00E07B74 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A21F0919EF9CFB00E07B74 /* Images.xcassets */; };
 		84A21F0D19EF9CFB00E07B74 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 84A21F0B19EF9CFB00E07B74 /* LaunchScreen.xib */; };
 		84A21F1919EF9CFB00E07B74 /* project01Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A21F1819EF9CFB00E07B74 /* project01Tests.m */; };
+		84A21F2419EFA19D00E07B74 /* Buttonasdw.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A21F2319EFA19D00E07B74 /* Buttonasdw.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		84A21F1219EF9CFB00E07B74 /* project01Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = project01Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A21F1719EF9CFB00E07B74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84A21F1819EF9CFB00E07B74 /* project01Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = project01Tests.m; sourceTree = "<group>"; };
+		84A21F2219EFA19D00E07B74 /* Buttonasdw.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Buttonasdw.h; sourceTree = "<group>"; };
+		84A21F2319EFA19D00E07B74 /* Buttonasdw.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Buttonasdw.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				84A21F0119EF9CFA00E07B74 /* AppDelegate.m */,
 				84A21F0319EF9CFA00E07B74 /* ViewController.h */,
 				84A21F0419EF9CFA00E07B74 /* ViewController.m */,
+				84A21F2219EFA19D00E07B74 /* Buttonasdw.h */,
+				84A21F2319EFA19D00E07B74 /* Buttonasdw.m */,
 				84A21F0619EF9CFA00E07B74 /* Main.storyboard */,
 				84A21F0919EF9CFB00E07B74 /* Images.xcassets */,
 				84A21F0B19EF9CFB00E07B74 /* LaunchScreen.xib */,
@@ -221,6 +226,7 @@
 			files = (
 				84A21F0519EF9CFA00E07B74 /* ViewController.m in Sources */,
 				84A21F0219EF9CFA00E07B74 /* AppDelegate.m in Sources */,
+				84A21F2419EFA19D00E07B74 /* Buttonasdw.m in Sources */,
 				84A21EFF19EF9CFA00E07B74 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
